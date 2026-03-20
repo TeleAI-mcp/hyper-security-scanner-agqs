@@ -1,2 +1,3 @@
-# hyper-security-scanner-agqs
+# Hyper Security Scanner Agqs
+
 A repository to test GitHub automation for issue management.
